@@ -1,13 +1,13 @@
-# Milkdown Examples: Next Commonmark
+# Milkdown Playground
 
-A simple example for using milkdown with Next.
+forked from https://github.com/Milkdown/examples/tree/main/next-commonmark
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/Milkdown/examples/tree/main/next-commonmark)
+nextjs project, to be integrated with nance-interface
 
 ## Getting Started
 
 1. Clone the repo.
 
-2. Install dependencies by `pnpm install`.
+2. Install dependencies by `npm install`.
 
-3. Run the example by `pnpm start`.
+3. Run the example by `npm start`.
